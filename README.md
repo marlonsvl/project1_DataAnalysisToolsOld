@@ -3,6 +3,8 @@
 ##Data
 I choose GapMinder data which its data is about domestic producto, total employment rate and estimated HIV prevalence.
 
+https://d396qusza40orc.cloudfront.net/phoenixassets/data-management-visualization/GapMinder%20Codebook%20.pdf
+
 ##Research Question
 There is association between of major internet user rate and the employ rate ? 
 
